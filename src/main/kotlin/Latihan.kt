@@ -18,8 +18,11 @@ fun main () {
     var alamat: String
     alamat = "Jambi"
     var umur = 20
-
     println(namalengkap)
     println(alamat)
     println(umur)
+
+    var namalengkap2 = "Khalid"
+    namalengkap2 = "Muhammad Khalid"
+    println(namalengkap)
 }
