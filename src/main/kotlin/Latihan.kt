@@ -1,12 +1,25 @@
+// pertemuan 1
 fun main () {
-    println("Hello World!")
-    println("Khalid")
+//    println("Hello World!")
+//    println("Khalid")
+//
+//    print("Pekerjaan : ")
+//    val pekerjaan = readLine()
+//
+//    print("Alamat : ")
+//    val alamat = readLine()
+//
+//    println("Pekerjaan kamu adalah $pekerjaan dan alamat kamu di $alamat")
 
-    print("Pekerjaan : ")
-    val pekerjaan = readLine()
 
-    print("Alamat : ")
-    val alamat = readLine()
+// Pertemuan 2
 
-    println("Pekerjaan kamu adalah $pekerjaan dan alamat kamu di $alamat")
+    var namalengkap: String = "Khalid"
+    var alamat: String
+    alamat = "Jambi"
+    var umur = 20
+
+    println(namalengkap)
+    println(alamat)
+    println(umur)
 }
